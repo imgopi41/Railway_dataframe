@@ -7,7 +7,6 @@ This is simple Railway DataFrame implemented with using Python Pandas. This proj
 Just trying implement that Data analysis can also be done through Python and SQL as well.
 
 
-
 **II. Technology Stack**
 
 Language: Python
@@ -15,10 +14,13 @@ Language: Python
 IDE used : Online Python BETA
 
 
-
 **III. Workflow**
 
 1. This is simple Python Dataframe that shows Train details.
+2. Train name, number, arrival & depature time of the train are provided inside a table.
+3. Using Pandas module, Dataframe is created.
+4. There are 6 Rows and 5 Columns followed by Sql table
+5. User can add or implement extra data inside rows and columns.
 
 
 
