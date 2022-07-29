@@ -11,7 +11,7 @@ Just trying implement that Data analysis can also be done through Python and SQL
 
 Language: Python
 
-IDE used : Online Python BETA
+IDE used : Pycharm
 
 
 **III. Workflow**
